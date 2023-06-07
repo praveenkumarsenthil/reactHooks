@@ -1,0 +1,38 @@
+.card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40px;
+    width: 180px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 5px;
+    border-width:  5px;
+    border-bottom: none;
+    border-right: none;
+    border-top: none;
+    border-color: #096f92;
+    background-color: aquamarine;
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+
+.list {
+   list-style-type: none;
+}
+
+.para {
+    text-align: center;
+}
+
+.btn {
+    height: 30px;
+    width: 60px;
+    background-color: aliceblue;
+    border-width: 0px;
+    border-radius: 5px;
+}
